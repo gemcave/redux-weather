@@ -14,7 +14,7 @@ const StyledInput = styled.input`
     background: transparent;
     outline: none;
     font-size: 19px;
-    width: 75 %;
+    width: 75%;
     padding: 5px;
 
     &::placeholder {
