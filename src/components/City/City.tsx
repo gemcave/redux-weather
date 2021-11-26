@@ -1,4 +1,3 @@
-import React from 'react'
 import { Partly, Cloud, Fog, Sunny, Begin } from '@images/index';
 import { WeatherState } from '@features/weatherSlice';
 import styled from 'styled-components';
