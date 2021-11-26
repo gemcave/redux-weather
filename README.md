@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Yet Another Small Weather App 
 https://wezer-redux.netlify.app/
 
