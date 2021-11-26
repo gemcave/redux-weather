@@ -1,8 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit'
 import { service } from '@services/index'
-
-
-
 export interface WeatherState {
     status: 'loading' | 'success' | 'failed';
     city: string;
